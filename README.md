@@ -1,3 +1,12 @@
+# Order Management Application
+
+A simple **Spring Boot** app for managing orders, featuring dynamic greetings with **Thymeleaf** templates.
+
+## Features
+- Display a personalized greeting.
+- Spring MVC for routing and Thymeleaf for rendering.
+
+## How to Run
 
 
 
